@@ -1,0 +1,51 @@
+Model,Type,Price (USD)
+Trek Domane AL 2,Road,999
+Specialized Allez Elite,Road,1500
+Giant Contend 3,Road,950
+Cannondale CAAD13,Road,1800
+Scott Speedster 40,Road,1100
+Bianchi Via Nirone 7,Road,1300
+Fuji Sportif 2.1,Road,1050
+Raleigh Merit 2,Road,980
+Diamondback Century 2,Road,1200
+Jamis Ventura Comp,Road,1025
+Trek FX 3 Disc,Hybrid,900
+Specialized Sirrus X 3.0,Hybrid,875
+Giant Escape 3,Hybrid,650
+Cannondale Quick 4,Hybrid,800
+Scott Sub Cross 40,Hybrid,750
+Bianchi C-Sport 1,Hybrid,720
+Fuji Absolute 1.9,Hybrid,680
+Raleigh Cadent 2,Hybrid,770
+Diamondback Insight 2,Hybrid,700
+Jamis Allegro A2,Hybrid,695
+Trek Marlin 5,Mountain,749
+Specialized Rockhopper,Mountain,825
+Giant Talon 2,Mountain,850
+Cannondale Trail 6,Mountain,810
+Scott Aspect 950,Mountain,870
+Bianchi Magma 9.1,Mountain,890
+Fuji Nevada 29 1.9,Mountain,830
+Raleigh Tokul 2,Mountain,860
+Diamondback Overdrive 29,Mountain,880
+Jamis Durango A1,Mountain,845
+Trek Roscoe 6,Mountain,1150
+Specialized Chisel,Mountain,1400
+Giant XTC SLR 2,Mountain,1600
+Cannondale Scalpel HT,Mountain,2100
+Scott Spark 950,Mountain,2200
+Bianchi Methanol CV,Mountain,3000
+Fuji Auric 27.5,Mountain,2500
+Raleigh Kodiak 2,Mountain,1900
+Diamondback Release 3,Mountain,2800
+Jamis Portal A2,Mountain,2600
+Trek Verve+ 2,Electric,2400
+Specialized Turbo Como,Electric,3300
+Giant Explore E+ 2,Electric,2950
+Cannondale Adventure Neo,Electric,3200
+Scott Sub Active eRIDE,Electric,2850
+Bianchi E-Spillo City,Electric,2700
+Fuji E-Traverse 1.3,Electric,2900
+Raleigh Redux IE,Electric,2650
+Diamondback Union 2,Electric,3100
+Jamis Hudson E2,Electric,2750
