@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diehard Hotel - Room 404</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: #000;
+            color: #fff;
+            font-family: 'Courier New', monospace;
+        }
+        #container {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+        }
+        #glitchCanvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+        }
+        #content {
+            position: relative;
+            z-index: 2;
+            padding: 20px;
+        }
+        .terminal {
+            font-family: 'Courier New', monospace;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .ghost-message {
+            color: #00ff00;
+            text-shadow: 0 0 5px #00ff00;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <canvas id="glitchCanvas"></canvas>
+        <div id="content">
+            <div class="terminal">
+                <h1>Room 404</h1>
+                <p>Welcome to the forgotten memory cache...</p>
+                <div id="memory-fragments"></div>
+                <div id="ghost-messages"></div>
+                <div id="riddle"></div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

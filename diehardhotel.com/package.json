@@ -1,0 +1,26 @@
+{
+  "name": "diehardhotel",
+  "version": "1.0.0",
+  "description": "A mysterious digital escape room experience",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "dev": "webpack serve --mode development"
+  },
+  "dependencies": {
+    "three": "^0.158.0",
+    "@tensorflow/tfjs": "^4.16.0",
+    "@tensorflow/tfjs-converter": "^4.16.0",
+    "@tensorflow/tfjs-data": "^4.16.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.16.0",
+    "@tensorflow/tfjs-backend-cpu": "^4.16.0",
+    "@tensorflow/tfjs-backend-webgpu": "^4.16.0",
+    "@tensorflow/tfjs-backend-wasm": "^4.16.0",
+    "@tensorflow/tfjs-backend-wasm": "^4.16.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
